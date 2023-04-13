@@ -1,2 +1,2 @@
-# foodStore
-Tech task for Forex
+# PetStore
+React store pet project 
